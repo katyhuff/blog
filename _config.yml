@@ -1,3 +1,4 @@
+{% include JB/setup %}
 markdown: rdiscount
 pygments: true
 permalink: /posts/:title
