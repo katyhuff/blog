@@ -7,9 +7,14 @@ rdiscount:
 
 name: Katy Huff
 url: "http://katyhuff.github.com/left"
-base_path: http://katyhuff.github.com/left
-asset_path : false
 description: ipsa dixit
 twitter: katyhuff
 github: katyhuff
 gravatar_url: http://www.gravatar.com/avatar/95edf87e1bee6782e38f18d6813cc74e
+
+
+
+JB :
+  version : 0.2.13
+  BASE_PATH : http://katyhuff.github.com/left
+  ASSET_PATH : false
