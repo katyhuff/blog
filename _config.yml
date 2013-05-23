@@ -8,6 +8,7 @@ rdiscount:
 name: Katy Huff
 url: http://katyhuff.github.io
 base_path: http://katyhuff.github.io/left/
+asset_path: false
 description: .
 twitter: katyhuff
 github: katyhuff
