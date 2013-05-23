@@ -6,9 +6,9 @@ rdiscount:
   extensions: [smart]
 
 name: Katy Huff
-url: http://katyhuff.github.io/
-BASE_PATH: http://katyhuff.github.io/left
-ASSET_PATH: false
+url: http://katyhuff.github.com/
+BASE_PATH : http://katyhuff.github.com/left
+ASSET_PATH : false
 description: .
 twitter: katyhuff
 github: katyhuff
