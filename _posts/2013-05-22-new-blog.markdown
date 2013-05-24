@@ -2,6 +2,7 @@
 layout: post
 title: New Blog
 category: posts
+comments:true
 ---
 
 This obligatory new blog blog post says that I have a new blog. 
