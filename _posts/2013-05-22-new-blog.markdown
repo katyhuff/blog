@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Blog
+comments: true
 category: posts
 ---
 
