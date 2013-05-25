@@ -4,7 +4,7 @@ layout: layout
 
 <section class="content">
   <h1>
-    <a href="{{ page.url }}">{{ page.title }}</a>
+    <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
   </h1>
 
   <section class="byline">
@@ -34,9 +34,22 @@ layout: layout
     </section>
     <section class="comments">
 
+
       <script type="text/javascript">
+            var disqus_shortname = 'katyhuffgithub';
+              var disqus_script = 'count.js';
+            
+          (function () {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+          }());
+      </script>
+
+     <!--- <script type="text/javascript">
         var disqus_shortname = '{{ site.disqus_username }}';
-        var disqus_url = '{{ site.url }}{{ page.url }}';
+        var disqus_url = '{{ site.url }}';
+        var disqus_title = '{{ page.title }}';
         var disqus_identifier = '{{ page.date | date_to_xmlschema }}';
         /* * * DON'T EDIT BELOW THIS LINE * * */
         (function() {
@@ -46,6 +59,7 @@ layout: layout
          })();
       </script>
       <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+-->
     </section>
   </section>
 </section>
