@@ -3,6 +3,9 @@ layout: post
 title: New Blog
 comments: true
 category: posts
+tags:
+- jekyll
+- meta
 ---
 
 This obligatory new blog blog post says that I have a new blog. 
