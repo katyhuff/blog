@@ -6,7 +6,7 @@ category: posts
 ---
 
 
-I just got an invitation today which suffered a common failure mode, and I thought I'd warn colleagues against it. That is, when inviting female speakers to things, there is a well-meaning type of comment that has the potential to unintentionally cause blinding anger in the recipient. I've received a NUMBER of these in my time, and this morning's email reminded me to alert colleagues to this issue.
+I just got an invitation today which suffered a common failure mode, and I thought I'd warn colleagues against it. That is, when inviting female speakers to things, there is a well-meaning type of comment that has the potential to unintentionally cause blinding anger in the recipient. I've been the recipient of a number of these in my time, and this morning's email reminded me to alert colleagues to this issue.
 
 Specifically, in the third paragraph of the invitation, please do not state that she is being invited primarily because your conference doesn't have any women speakers and secondarily because of her expertise. That's what happened in the email I received today and am printing (redacted) below. 
 
