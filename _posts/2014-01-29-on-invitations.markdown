@@ -10,7 +10,7 @@ I just got an invitation today which suffered a common failure mode, and I thoug
 
 Specifically, in the third paragraph of the invitation, please do not state that she is being invited primarily because your conference doesn't have any women speakers and secondarily because of her expertise. That's what happened in the email I received today and am printing (redacted) below. 
 
-Additionally, this particular emailer couldn't resist the urge to litter the email with winky faces.... I would recommend against that too, for obvious reasons of professional decorum (surely two men in a professional relationship don't wink at each other via email?).
+Additionally, this particular emailer couldn't resist the urge to litter the email with winky faces.... While this was obviously meant to convey friendliness and approachability, I would recommend against it for obvious reasons of professional decorum. (Surely two men beginning a professional relationship don't wink at each other via email?).
 
 Anyway, I know it's tricky out there, so I just wanted to share this particular woman's perspective. Don't worry, I'll probably agree to give the talk that well-meaning-guy wants me to give, because I know he means well. But I'd have been much quicker to say yes if my gender had been secondary to my skillset or, even better, left unmentioned.
 
