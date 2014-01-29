@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Today I Contributed
+title: On Invitations
 comments: true
 category: posts
 ---
