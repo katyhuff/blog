@@ -21,8 +21,8 @@ Women in Science and Engineering. For that bootcamp, I was the lead instructor,
 and my summary of that event can be [found at the Berkeley Science 
 Review](http://sciencereview.berkeley.edu/wise-athena-swifter-hermes/ "WiSE 
 Summary"). The second event was a Women In Tech data science tutorial for female 
-Bay Area high schoolers and took place in conjunction with the [Silicon Valley 
-PyData conference](http://pydata.org/sv2014 "PyData"). It was led by the 
+Bay Area high schoolers. It took place in conjunction with the [Silicon Valley 
+PyData conference](http://pydata.org/sv2014 "PyData") and was led by the 
 unstoppable [Cindee Madison](https://twitter.com/rgrrl "Cindee on Twitter").  
 
 ## Isolation
