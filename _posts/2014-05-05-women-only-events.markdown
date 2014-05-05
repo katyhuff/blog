@@ -49,8 +49,10 @@ women's events benefit greatly from non-female allies. These allies might be
 volunteer helpers (as in the WiSE bootcamp), helpful venue employees running the 
 A/V (as in the WIT event), or supportive discussants (as in the mixer at 
 SciPy2013). Allies come in other forms as well. Often, they're community 
-leaders. For Software Carpentry, we have an all-star supporter in Greg Wilson. 
-In the WIT event, we had Travis Oliphant, who dropped by just to smile in the 
+leaders. For Software Carpentry, we have an all-star supporter in [Greg 
+Wilson](http://third-bit.com/ "Greg"). 
+In the WIT event, we had [Travis 
+Oliphant](http://technicaldiscovery.blogspot.com/ "Travis"), who dropped by just to smile in the 
 background and quietly observe what NumFocus had supported.
 
 When women are only a small fraction of a community (as is the case in STEM) our 
