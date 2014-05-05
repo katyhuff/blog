@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Woman Only Events
+title: Women Only Events
 comments: true
 category: posts
 ---
