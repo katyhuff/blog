@@ -47,13 +47,13 @@ official social events going on.
 Just as the queer community benefits from heterosexual allies, so too, women and 
 women's events benefit greatly from non-female allies. These allies might be 
 volunteer helpers (as in the WiSE bootcamp), helpful venue employees running the 
-A/V (as in the WIT event), or supportive discussants (as in the mixer ar 
+A/V (as in the WIT event), or supportive discussants (as in the mixer at 
 SciPy2013). Allies come in other forms as well. Often, they're community 
 leaders. For Software Carpentry, we have an all-star supporter in Greg Wilson. 
 In the WIT event, we had Travis Oliphant, who dropped by just to smile in the 
 background and quietly observe what NumFocus had supported.
 
-When women are only a small fraction of a community (as is the case in tech) our 
+When women are only a small fraction of a community (as is the case in STEM) our 
 allies from a better-represented demographic are essential for boosting our 
 signal, but are too often forgotten. I'm looking forward to the SciPy 2014 
 ladies lunch, which may have a number of supportive ally attendees. 
@@ -66,6 +66,6 @@ importance of culture. Apropos 'leaning in' and 'whistling Vivaldi,' the culture
 of a learning or working environment is so pervasive it can be simultaneously 
 indetectible and debilitating.  It was jolting to notice in these events that a 
 room full of women is vastly different from the culture I breathe day-to-day. As 
-we are chronically exposed to the effects of our gendered culture, it's easy to 
+we are chronically exposed to the effects of our gendered culture, we somtimes 
 forget their power. A few hours not feeling the weight of my 'otherness' 
-reminded me of the mass of the culture that still needs to be shifted
+reminded me of the immense mass of the culture that still needs to be shifted.
