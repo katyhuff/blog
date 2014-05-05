@@ -11,7 +11,7 @@ organize two women-focused events in scientific computing.  My experiences as an
 organizer of these events brought up a few thoughts for me. Foremost, I was 
 reminded that women are excellent. Also, though, it raised concerns for me about 
 the effects of gendered isolation, the need for supportive non-female allies, 
-and remaining change need in STEM culture.
+and remaining change needed in STEM culture.
 
 # Three Weeks, Two Events, Hundreds of Women 
 
