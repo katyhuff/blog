@@ -28,7 +28,7 @@ unstoppable [Cindee Madison](https://twitter.com/rgrrl "Cindee on Twitter").
 ## Isolation
 
 Sometimes, you want to hold an event at a conference that is intended just for 
-women. It's tempting to hold it in parallel to the conference, but the result is 
+women. It's tempting to hold it in parallel with the conference, but the result is 
 often that the actual conference is left bereft of women. This happened last 
 year at [SciPy2013](http://conference.scipy.org/scipy2013/ "SciPy2013") when we 
 held the ladies mixer at the same time as the full conference mixer. The results 
