@@ -67,7 +67,7 @@ The most important thing that was solidified for me in these events was the
 importance of culture. Apropos 'leaning in' and 'whistling Vivaldi,' the culture 
 of a learning or working environment is so pervasive it can be simultaneously 
 indetectible and debilitating.  It was jolting to notice in these events that a 
-room full of women is vastly different from the culture I breathe day-to-day. As 
+room full of women felt so vastly different from the culture I breathe day-to-day. As 
 we are chronically exposed to the effects of our gendered culture, we somtimes 
 forget their power. A few hours not feeling the weight of my 'otherness' 
 reminded me of the immense mass of the culture that still needs to be shifted.
