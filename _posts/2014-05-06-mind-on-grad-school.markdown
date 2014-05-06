@@ -24,23 +24,23 @@ The first sentence of [Denia and Sebastian's
 artcle](http://sciencereview.berkeley.edu/article/mind-grad-school/ "This is 
 Your Mind on Grad School") punched me right in the gut: 
 
-> ''Graduate school is the first time that you really fail, and really feel like a 
-> failure in the one thing that you are really completely invested in.'' 
+> "Graduate school is the first time that you really fail, and really feel like a 
+> failure in the one thing that you are really completely invested in." 
 
 The rest of the first paragraph just kept punching. The sentiments of total 
 strangers echoed perfectly the graduate  experiences of uncountably many of my 
 colleagues and close friends. It went like this: 
 
-> ''When I think about my  years as a graduate student at Berkeley, I think of 
-> days filled with a vague, ever-present cloud of guilt and anxiety,'' describes 
-> another former student.  ''Most days in lab were spent surrounded by brilliant 
+> "When I think about my  years as a graduate student at Berkeley, I think of 
+> days filled with a vague, ever-present cloud of guilt and anxiety," describes 
+> another former student.  "Most days in lab were spent surrounded by brilliant 
 > people striving for something great rather than by supportive people looking 
-> to facilitate each other’s growth.'' A current graduate student echoes that 
-> ''there is a deep, pervasive anxiety that seeps into every day of your life, a 
+> to facilitate each other’s growth." A current graduate student echoes that 
+> "there is a deep, pervasive anxiety that seeps into every day of your life, a 
 > constant questioning of your capability, intelligence, and whether or not you 
-> are cut out to be here.'' Another former student says, ''It took me many years 
-> to realize that ‘normal’ for many grad students means deeply—and 
-> secretly—depressed.''
+> are cut out to be here." Another former student says, "It took me many years 
+> to realize that 'normal' for many grad students means deeply—and 
+> secretly—depressed."
 
 # What to Do
 
