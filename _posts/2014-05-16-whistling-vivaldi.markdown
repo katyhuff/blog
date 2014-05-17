@@ -31,6 +31,7 @@ Hyde Park, Chicago.
 
 Professor Steele and his colleagues are responsible for the seminal social 
 psychological experiments that defined and characterized stereotype threat.  
+
 The book mostly tells the story of those decades of experiments. 
 
 It reads smoothly, but I often found myself critically curious about the 
