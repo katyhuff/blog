@@ -11,11 +11,11 @@ friendly mass email to the whole campus during finals week to remind everyone
 to please take care of one another.  I'm sometimes a lucky recipient of one of 
 these and, as mass emails go, they are charming. 
 
-In addition to these emails, it turns out, Claude Steele recently wrote a book 
-that my friends have all simultaneously suggested that I read.  The book is 
-called ["Whistling Vivaldi: How Stereotypes Affect Us and What We Can 
+In addition to these emails, it turns out, Claude Steele once wrote a book that 
+my friends have all recently and simultaneously suggested that I read.  The 
+book is called ["Whistling Vivaldi: How Stereotypes Affect Us and What We Can 
 Do,"](http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726 
-"Whistling Vivaldi")  and I read it this week [1]. What follows is my quick 
+"Whistling Vivaldi")  and I read it this week ([Steele,2011]). What follows is my quick 
 review.
 
 # Whistling Who?
@@ -43,13 +43,11 @@ stereotype threat.
 
 # The Situation
 
-In short, stereotype threat is all around us. When a young girl is flustered in 
-a math test, stereotype threat has already polluted the air she breathes. When 
-black college students don't succeed according to the level their SAT scores, 
+In short, stereotype threat is all around us. When a young girl is flustered in a math test, stereotype threat has already polluted the air she breathes. When black college students don't succeed according to the level predicted by their SAT scores, 
 stereotype threat is muting their potential in myriad ways on campus. Professor 
 Steele and colleagues showed that when stereotype threatened students took a 
 test, they didn't have to experience any direct prejudice to underperfom due to 
-the threat because [1]:
+the threat because ([Steele,2011]):
 
 > They were taking this test, and others like it, under the weight of history.
 
@@ -57,7 +55,7 @@ That's why, when a white man gets quiet in a racial profiling discussion with pe
 races, it's because he is tonguetied by a fear that he'll be perceived as racist 
 if he opens his mouth.  These were the main examples given by Professor Steele 
 and they revolve around "contingencies" rather than direct prejudice. To wit 
-[1]:
+([Steele,2011]):
 
 > There exists no group on earth that is not negatively stereotyped in some 
 > way—the old, the young, northerners, southerners, WASPs, computer whiz kids, 
@@ -70,7 +68,7 @@ and they revolve around "contingencies" rather than direct prejudice. To wit
 
 # The Fix
 
-Thankfully, this research has found some solutions as well [1] :
+Thankfully, this research has found some solutions as well ([Steele,2011]) :
 
 > If you want to change the behaviors and outcomes associated with social 
 > identity—say, too few women in computer science—don’t focus on changing the 
@@ -80,7 +78,7 @@ Thankfully, this research has found some solutions as well [1] :
 
 There are many ways to change these contingencies, but my favorite has to do 
 with how to give critical feedback when mentoring a student who is susceptible to 
-stereotype threat [1] :
+stereotype threat ([Steele,2011]) :
 
 > The feedback giver explained that he “used high standards” in evaluating the 
 > essays for publication in the teaching magazine. Still, he said, having read 
@@ -104,5 +102,5 @@ class](http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393
 "Whistling Vivaldi") . It was a quick read (about 4.5 hours). 
 
 
-[1] Steele, Claude M. (2011-04-04). Whistling Vivaldi: How Stereotypes Affect Us 
+[Steele,2011] Steele, Claude M. (2011-04-04). Whistling Vivaldi: How Stereotypes Affect Us 
 and What We Can Do (Issues of Our Time). W. W.  Norton & Company. Kindle Edition. 
