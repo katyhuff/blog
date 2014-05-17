@@ -36,7 +36,7 @@ The book mostly tells the story of those decades of experiments.
 It reads smoothly, but I often found myself critically curious about the 
 details of the experiments, which were largely glossed over. That is, when I 
 read "The results clearly showed that ..." I often immediately wonder "What was 
-the p factor on that result?" But, the book was convincingly and compellingly 
+the p-value on that result?" But, the book was convincingly and compellingly 
 written. So, while I would have liked more direct references and more details, 
 I still learned a lot about the symptoms, mechanisms, and solutions of 
 stereotype threat. 
