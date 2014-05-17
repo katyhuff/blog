@@ -45,7 +45,7 @@ stereotype threat.
 
 In short, stereotype threat is all around us. When a young girl is flustered in a math test, stereotype threat has already polluted the air she breathes. When black college students don't succeed according to the level predicted by their SAT scores, 
 stereotype threat is muting their potential in myriad ways on campus. Professor 
-Steele and colleagues showed that when stereotype threatened students took a 
+Steele and colleagues showed that when stereotype-threatened students took a 
 test, they didn't have to experience any direct prejudice to underperfom due to 
 the threat because ( [1] ):
 
