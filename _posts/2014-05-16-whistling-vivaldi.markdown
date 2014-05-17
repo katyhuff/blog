@@ -15,7 +15,7 @@ In addition to these emails, it turns out, Claude Steele once wrote a book that
 my friends have all recently and simultaneously suggested that I read.  The 
 book is called ["Whistling Vivaldi: How Stereotypes Affect Us and What We Can 
 Do,"](http://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726 
-"Whistling Vivaldi")  and I read it this week ([Steele,2011]). What follows is my quick 
+"Whistling Vivaldi")  and I read it this week ( [Steele,2011] ). What follows is my quick 
 review.
 
 # Whistling Who?
@@ -47,7 +47,7 @@ In short, stereotype threat is all around us. When a young girl is flustered in 
 stereotype threat is muting their potential in myriad ways on campus. Professor 
 Steele and colleagues showed that when stereotype threatened students took a 
 test, they didn't have to experience any direct prejudice to underperfom due to 
-the threat because ([Steele,2011]):
+the threat because ( [Steele,2011] ):
 
 > They were taking this test, and others like it, under the weight of history.
 
@@ -55,7 +55,7 @@ That's why, when a white man gets quiet in a racial profiling discussion with pe
 races, it's because he is tonguetied by a fear that he'll be perceived as racist 
 if he opens his mouth.  These were the main examples given by Professor Steele 
 and they revolve around "contingencies" rather than direct prejudice. To wit 
-([Steele,2011]):
+( [Steele,2011] ):
 
 > There exists no group on earth that is not negatively stereotyped in some 
 > way—the old, the young, northerners, southerners, WASPs, computer whiz kids, 
@@ -68,7 +68,7 @@ and they revolve around "contingencies" rather than direct prejudice. To wit
 
 # The Fix
 
-Thankfully, this research has found some solutions as well ([Steele,2011]) :
+Thankfully, this research has found some solutions as well ( [Steele,2011] ) :
 
 > If you want to change the behaviors and outcomes associated with social 
 > identity—say, too few women in computer science—don’t focus on changing the 
@@ -78,7 +78,7 @@ Thankfully, this research has found some solutions as well ([Steele,2011]) :
 
 There are many ways to change these contingencies, but my favorite has to do 
 with how to give critical feedback when mentoring a student who is susceptible to 
-stereotype threat ([Steele,2011]) :
+stereotype threat ( [Steele,2011] ) :
 
 > The feedback giver explained that he “used high standards” in evaluating the 
 > essays for publication in the teaching magazine. Still, he said, having read 
