@@ -13,12 +13,12 @@ invited to participate in this meeting along with the PI's, Co-PI's, Senior
 Fellows, and other researchers who are part of BIDS, NYU's center for Data 
 Science, and the University of Washington's eScience center.
 
-# Asilomar
+## Asilomar
 
 This first annual meeting was hosted at the Asilomar Conference Grounds near 
 Monterrey, CA. 
 
-## The Monterrey Bay Aquarium
+### The Monterrey Bay Aquarium
 
 The first thing on the agenda was the Monterrey Bay Aquarium. 
 I'd always wanted to visit, and it was everything I could have imagined an 
@@ -26,26 +26,26 @@ aquarium might be.
 There's an excellent jellyfish exhibit as well as a brannd new cephalopod 
 exhibit. The octopuses, squids, and cuttlefish were amazing creatures. 
 
-## The Conference Grounds
+### The Conference Grounds
 
 The conference grounds, designed by architect Julia Morgan, provide a beautiful 
 arts and crafts style campus with a lovely nearby beach.
 
-# Bonding and Community Building
+## Bonding and Community Building
 
 In order to solidify the collaborative bonds between the diverse scientists at
 the geographically disperse campuses involved in the collaboration, we did 
 various bonding and collaboration building activities. While that's not usually 
 [my jam](thatsmyjam.com), I did learn a few things. 
 
-## Dav Clark FTW
+### Dav Clark FTW
 
 The most important thing I learned was to have [Dav Clark](davsite.com) on your 
 team If possible, maximize the experience by having a David Clark on your team 
 as well. Out of five people, our team had two Dav\* Clarks and we were the 
 winners. Coincidence? I think not.
 
-## Fail Fast
+### Fail Fast
 
 The other lesson from the activity was straight out of agile workflows: fail fast. By prototyping 
 quickly and racing ahead with the first reasonable-sounding idea that was 
@@ -59,7 +59,7 @@ way.
 ![Of course, it's better to succeed fast](http://imgs.xkcd.com/comics/move_fast_and_break_things.png "It's always better to succeed fast")
 
 
-# Unconferencing
+## Unconferencing
 
 Rather than allow a planning committee to 
 sdictate the meeting subject matter, the attendees collaborated on a 
@@ -67,12 +67,12 @@ conference schedule for Monday and Wednesday mornings. It resulted in a set of
 topics I had trouble choosing between (being only one person, I can only attend 
 one session at a time, after all).
 
-## Visualization Session
+### Visualization Session
 
 The frist session I attended was the vizualization session, where I leared 
 about (and cheered for) a few interesting tools.
 
-## Demos Session
+### Demos Session
 
 I ended up (by virtue of being outspoken and often standing within earshot of Kevin Koy) leading the 
 
@@ -87,30 +87,30 @@ I ended up (by virtue of being outspoken and often standing within earshot of Ke
 
 
 
-# Working Group
+## Working Group
 
 <+interesting+>
 
-## Education Working Group
+### Education Working Group
 
 <+interesting+>
 
-## Software Working Group
+### Software Working Group
 
 <+interesting+>
 
-# <+heading+>
-
-<+interesting+>
-
-
-# <+heading+>
+## <+heading+>
 
 <+interesting+>
 
 
+## <+heading+>
 
-# Research Microblogging
+<+interesting+>
+
+
+
+## Research Microblogging
 
 I learned this morning, that David Hogg, who was an excellent feature of this event, 
 [blogs](http://hoggresearch.blogspot.com/) five times a week about research! 
