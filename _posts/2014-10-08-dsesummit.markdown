@@ -136,7 +136,7 @@ influential in data science. The resulting bibliography:
 
 ## Research Microblogging
 
-Finally, I learned this morning, that David Hogg, who was an excellent feature of this event, 
+Finally, I learned this morning, that David Hogg, who was an exceptional leader of this event, 
 [blogs](http://hoggresearch.blogspot.com/) five times a week about research! 
 Amazing, IMO.  The rules he has instituted for himself are : 
 
