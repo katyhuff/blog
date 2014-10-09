@@ -10,8 +10,7 @@ collaborative meeting between three data science centers at UC Berkeley,
 NYU, and the University of Washington.
 By virtue of being a fellow with the Berkeley Institute for Data Science, I was 
 invited to participate in this meeting along with the PI's, Co-PI's, Senior 
-Fellows, and other researchers who are part of BIDS, NYU's center for Data 
-Science, and the University of Washington's eScience center.
+Fellows, and other researchers who are part of [BIDS](http://bids.berkeley.edu), [NYU's center for Data Science](), and the University of Washington's eScience center.
 
 ## Asilomar
 
@@ -69,27 +68,37 @@ one session at a time, after all).
 
 ### Visualization Session
 
-The frist session I attended was the vizualization session, where I leared 
-about (and cheered for) a few interesting tools.
+The first session I attended was the vizualization session, where we mentioned 
+and (and cheered for) a few interesting tools.
+
+- [d3.js](http://d3js.org/) (data driven documents)
+- Topic modeling in R using [LDAvis](https://github.com/cpsievert/LDAvis/), [related blog post](http://ropensci.org/blog/2014/04/16/topic-modeling-in-R/)
+- [yt](http://yt-project.org/) (demo: Katy Huff) - good for zoomable views on large (hierarchical?) data sets  (including meshes, lots of astro examples of data cube data)
+- [DS9 (astronomy)](http://ds9.si.edu/site/Home.html)
+- [Mayavi](http://code.enthought.com/projects/mayavi/)
+- dv3d (tom maxwell, nasa, for climate)
+- [RCharts.io](http://rcharts.io/)
+- [IPython interactive charts using interacive widget system](https://github.com/ipython/ipython/tree/master/examples/Interactive%20Widgets) demo: Fernando
+- [Max](http://cycling74.com/products/max/) (this is for artists!)
+- [Vistrails](http://www.vistrails.org/index.php/Main_Page)
+
 
 ### Demos Session
 
 I ended up (by virtue of being outspoken and often standing within earshot of Kevin Koy) leading the 
 
+- Brian McFee showed off [LibROSA](https://github.com/bmcfee/librosa/), some sweet tools for audio analysis
+- Dan Halperin showed off [Myria](http://myria.cs.washington.edu/), an abstracted, accessible interface for relational database exploration
 - Zhao Zhang showed off the AMPStack
-- Kyle Cranmer demonstrated the collaborative statistics modeling framework 
-  behind the LHC
-- Dan Halperin showed off Myria
-- Brian McFee showed off some sweet tools for audio analysis
-- etc.
+- [Kyle Cranmer](http://theoryandpractice.org/) demonstrated the collaborative statistics modeling framework behind the LHC (RooFit, RooPlot, Roostats)
+- Mike Blanton gave a description of typical astronomer workflows
+- John Canny gave a [BIDMach and BIDMat](http://bid2.berkeley.edu/bid-data-project/) demo
 - And Saul Perlmutter framed a discussion around goals, dreams, and the needs 
   for workflow tools.
 
+## Working Groups
 
-
-## Working Group
-
-<+interesting+>
+Tuesday, working group sessions were 
 
 ### Education Working Group
 
