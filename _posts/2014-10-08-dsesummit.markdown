@@ -17,15 +17,16 @@ eScience institute](http://escience.washington.edu/).
 
 ## Asilomar
 
-This first annual meeting was hosted at the Asilomar Conference Grounds near 
-Monterrey, CA. 
+Our director, Kevin Koy, spearheaded the organization of this first annual 
+meeting and made the wise choice to host it at the Asilomar Conference Grounds 
+near Monterrey, CA. 
 
 ### The Monterrey Bay Aquarium
 
 The first thing on the agenda was the Monterrey Bay Aquarium. 
 I'd always wanted to visit, and it was everything I could have imagined an 
 aquarium might be.
-There's an excellent jellyfish exhibit as well as a brannd new cephalopod 
+There's an excellent jellyfish exhibit as well as a brand new cephalopod
 exhibit. The octopuses, squids, and cuttlefish were amazing creatures. 
 
 ### The Conference Grounds
@@ -70,14 +71,14 @@ way.
 ## Unconferencing
 
 Rather than allow a planning committee to 
-sdictate the meeting subject matter, the attendees collaborated on a 
+dictate the meeting subject matter, the attendees collaborated on a 
 conference schedule for Monday and Wednesday mornings. It resulted in a set of 
 topics I had trouble choosing between (being only one person, I can only attend 
 one session at a time, after all).
 
 ### Visualization Session
 
-The first session I attended was the vizualization session, where we mentioned 
+The first session I attended was the visualization session, where we mentioned 
 and (and cheered for) a few interesting tools.
 
 - [d3.js](http://d3js.org/) (data driven documents)
@@ -121,7 +122,7 @@ the last five years, including:
 ## Most Influential Work
 
 A fascinating presentation by Mark Stalzer described what the Moore Foundation 
-learned about impactful works in data science. Each of the more than 1100 
+learned about the most impactful works in data science. Each of the more than 1100 
 pre-applications for the Data Driven Discovery Investigators program included 
 up to five references that, in the opinion of the author, were some of the most 
 influential in data science. The resulting bibliography:
