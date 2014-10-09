@@ -30,15 +30,20 @@ exhibit. The octopuses, squids, and cuttlefish were amazing creatures.
 
 ### The Conference Grounds
 
-The conference grounds, designed by architect Julia Morgan, provide a beautiful 
-arts and crafts style campus with a lovely nearby beach.
+I learned from 
+Professor Henry Brady and his lovely wife that Asilomar was designed by architect 
+[Julia Morgan](http://en.wikipedia.org/wiki/Julia_Morgan) in  beautiful arts 
+and crafts style. The grounds are simply lovely and have a fun, if cold, nearby 
+beach.
+
+![cold pacific](https://pbs.twimg.com/media/BzTWsaXIUAA_mi2.jpg)
 
 ## Bonding and Community Building
 
 In order to solidify the collaborative bonds between the diverse scientists at
 the geographically disperse campuses involved in the collaboration, we did 
 various bonding and collaboration building activities. While that's not usually 
-[my jam](thatsmyjam.com), I did learn a few things. 
+[my jam](https://www.thisismyjam.com/), I did learn a few things. 
 
 ### Dav Clark FTW
 
@@ -58,7 +63,8 @@ should just start moving with the ideas that we already have. Ideally, allowing
 ourselves room to fail fast, we'll actually get some fast successes along the 
 way.
 
-![Of course, it's better to succeed fast](http://imgs.xkcd.com/comics/move_fast_and_break_things.png "It's always better to succeed fast")
+![Of course, it's better to succeed fast](http://imgs.xkcd.com/comics/move_fast_and_break_things.png "hopefully we won't break too much stuff")
+
 
 
 ## Unconferencing
@@ -101,32 +107,33 @@ Kevin Koy) leading the tools session. It was a great series of lightning talks
 - And Saul Perlmutter framed a discussion around goals, dreams, and the needs 
   for workflow tools.
 
-## Working Groups
+### Working Groups
 
-Tuesday, working group sessions were 
+Tuesday, working group sessions took place simultaneously, in many different 
+rooms, and covered most of the scientific topics I've been interested in for 
+the last five years, including: 
 
-### Education Working Group
+- Software and Tools,
+- Reproducibility and Open Science,
+- Education and Training, and
+- Alternative metrics and Career Paths.
 
-<+interesting+>
+## Most Influential Work
 
-### Software Working Group
+A fascinating presentation by Mark Stalzer described what the Moore Foundation 
+learned about impactful works in data science. Each of the more than 1100 
+pre-applications for the Data Driven Discovery Investigators program included 
+up to five references that, in the opinion of the author, were some of the most 
+influential in data science. The resulting bibliography:
 
-<+interesting+>
-
-## <+heading+>
-
-<+interesting+>
-
-
-## <+heading+>
-
-<+interesting+>
-
-
+- named IPython the most important tool (well deserved!),
+- had an h-index of 16,
+- and had enormous representation from Google research papers (in particular, 
+  Map Reduce).
 
 ## Research Microblogging
 
-I learned this morning, that David Hogg, who was an excellent feature of this event, 
+Finally, I learned this morning, that David Hogg, who was an excellent feature of this event, 
 [blogs](http://hoggresearch.blogspot.com/) five times a week about research! 
 Amazing, IMO.  The rules he has instituted for himself are : 
 
