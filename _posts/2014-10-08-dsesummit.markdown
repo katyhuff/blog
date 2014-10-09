@@ -150,7 +150,7 @@ and
 
 It seems overly ambitious and questionably helpful, but I guess he's been doing 
 it for years, so it must be serving him well somehow. In the same way that 
-Titus' blog is an impressive body of work, so too is this blog. I'm inspired.
+Titus' blog is an impressive body of work, so too is Hogg's blog. I'm inspired.
 
 He also has [a teaching blog.](http://hoggteaching.blogspot.com/)
 
