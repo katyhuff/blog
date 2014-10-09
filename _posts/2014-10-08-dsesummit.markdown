@@ -85,12 +85,12 @@ and (and cheered for) a few interesting tools.
 
 - [d3.js](http://d3js.org/) (data driven documents)
 - Topic modeling in R using [LDAvis](https://github.com/cpsievert/LDAvis/), [related blog post](http://ropensci.org/blog/2014/04/16/topic-modeling-in-R/)
-- [yt](http://yt-project.org/) (demo: Katy Huff) - good for zoomable views on large (hierarchical?) data sets  (including meshes, lots of astro examples of data cube data)
+- [yt](http://yt-project.org/), good for zoomable views on large dense volumetric data sets  (including meshes, lots of astro examples of data cube data)
 - [DS9 (astronomy)](http://ds9.si.edu/site/Home.html)
 - [Mayavi](http://code.enthought.com/projects/mayavi/)
 - dv3d (tom maxwell, nasa, for climate)
 - [RCharts.io](http://rcharts.io/)
-- [IPython interactive charts using interacive widget system](https://github.com/ipython/ipython/tree/master/examples/Interactive%20Widgets) demo: Fernando
+- [IPython interactive charts using interacive widget system](https://github.com/ipython/ipython/tree/master/examples/Interactive%20Widgets)
 - [Max](http://cycling74.com/products/max/) (this is for artists!)
 - [Vistrails](http://www.vistrails.org/index.php/Main_Page)
 
