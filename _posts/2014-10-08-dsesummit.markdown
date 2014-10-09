@@ -55,7 +55,9 @@ were the winners. Coincidence? I think not.
 
 ### Fail Fast
 
-The other lesson from the activity was straight out of agile workflows: fail fast. By prototyping 
+The other lesson from the bonding activities was straight out of agile 
+workflows: fail fast. We were all separated into teams to make towers with 
+spaghetti and tape, to hold up a marshmallow. We had 18 minutes. By prototyping 
 quickly and racing ahead with the first reasonable-sounding idea that was 
 suggested, we started actually building before a lot of other teams and had 
 more time for quality control. In an analogy to the collaboration, this lesson 
