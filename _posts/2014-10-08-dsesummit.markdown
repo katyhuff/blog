@@ -49,9 +49,9 @@ various bonding and collaboration building activities. While that's not usually
 ### Dav Clark FTW
 
 The most important thing I learned was to have [Dav Clark](http://scidav.org/) on your 
-team If possible, maximize the experience by having a David Clark on your team 
-as well. Out of five people, our team had two Dav\* Clarks and we were the 
-winners. Coincidence? I think not.
+team If possible, maximize the experience by having an extra David Clark on 
+your team as well. Out of five people, our team had two Dav\* Clarks and we 
+were the winners. Coincidence? I think not.
 
 ### Fail Fast
 
