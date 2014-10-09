@@ -10,7 +10,10 @@ collaborative meeting between three data science centers at UC Berkeley,
 NYU, and the University of Washington.
 By virtue of being a fellow with the Berkeley Institute for Data Science, I was 
 invited to participate in this meeting along with the PI's, Co-PI's, Senior 
-Fellows, and other researchers who are part of [BIDS](http://bids.berkeley.edu), [NYU's center for Data Science](), and the University of Washington's eScience center.
+Fellows, and other researchers who are part of 
+[BIDS](http://bids.berkeley.edu), [NYU's center for Data 
+Science](http://datascience.nyu.edu/), and the [University of Washington's 
+eScience institute](http://escience.washington.edu/).
 
 ## Asilomar
 
@@ -85,7 +88,9 @@ and (and cheered for) a few interesting tools.
 
 ### Demos Session
 
-I ended up (by virtue of being outspoken and often standing within earshot of Kevin Koy) leading the 
+I ended up (by virtue of being outspoken and often standing within earshot of 
+Kevin Koy) leading the tools session. It was a great series of lightning talks 
+(7 thrilling minutes per person!):
 
 - Brian McFee showed off [LibROSA](https://github.com/bmcfee/librosa/), some sweet tools for audio analysis
 - Dan Halperin showed off [Myria](http://myria.cs.washington.edu/), an abstracted, accessible interface for relational database exploration
