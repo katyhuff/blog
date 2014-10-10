@@ -113,8 +113,8 @@ Kevin Koy) leading the tools session. It was a great series of lightning talks
 ### Working Groups
 
 Tuesday, working group sessions took place simultaneously, in many different 
-rooms, and covered most of the scientific topics I've been interested in for 
-the last five years, including: 
+rooms, and covered most of the scientific computing topics I've been interested 
+in for the last five years, including: 
 
 - Software and Tools,
 - Reproducibility and Open Science,
