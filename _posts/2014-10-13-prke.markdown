@@ -21,8 +21,9 @@ assumed flux shape, (and therefore the magnitude of the reactor power).
 
 The many partial differential equations that result can most simply and loosely
 be solved in two blocks. There is the neutronics block, which assumes a point
-reactor, as I have just discussed. There is also the thermal hydraulics block
-which you are helping with. The neutronics block determines the power based on
+reactor, as I have just discussed. There is also the thermal hydraulics block 
+which captures the effect of the power generation on the temperatures in the 
+materials. The neutronics block determines the power based on
 the reactivity in the reactor. 
 
 The reactivity calculation, however, relies on the temperature of each
