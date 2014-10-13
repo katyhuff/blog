@@ -1,0 +1,38 @@
+---
+layout: post
+title: Explaining the Point Reactor Kinetics Equations
+comments: true
+category: posts
+---
+
+The point reactor kinetics equations are used in neutronic transient analyses 
+when a fast, simple estimate of transient behavior is needed. However, not all 
+nuclear engineers will ever take nuclear reactor dynamics. To describe the
+meaning of "point" in the PRKE to a graduate student collaborator today, I gave
+the following explanation in words (no equations).
+
+# PRKE (without the math)
+
+The point reactor kinetics equations assume a nueutron flux shape through the
+reactor. In this way, the dimensionality of the problem is reduced to a
+"point". However, that point is not "the middle of the fuel pebble." It is not
+anywhere, geometrically. The point simply refers to the magnitude of that
+assumed flux shape, (and therefore the magnitude of the reactor power).
+
+The many partial differential equations that result can most simply and loosely
+be solved in two blocks. There is the neutronics block, which assumes a point
+reactor, as I have just discussed. There is also the thermal hydraulics block
+which you are helping with. The neutronics block determines the power based on
+the reactivity in the reactor. 
+
+The reactivity calculation, however, relies on the temperature of each
+component. So, the thermal hydraulics block must calculate the those
+temperatures based on the most recent calculation of the power. The thermal
+hydraulics calculation can be conducted to any detail that is desired, however,
+the power distribution is not specified, so the standard way is to do it with a
+0-D model like the lumped capacitance model (in which each component is treated
+as a lump.) The neutronics block in the point reactor kinetics equations solves
+for the total reactor power, so, in the thermal model, that power should be
+evenly distributed everywhere there is fuel. That is, it should be treated as
+if it is in the "fuel" lump of the lumped capacitance model. 
+
