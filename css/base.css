@@ -18,6 +18,7 @@ a {
   .sidebar img {
     padding-left: 0px;
     padding-right: 10px;
+    width: 16px;
     border: 0; }
   .sidebar .avatar {
     padding: 0;
