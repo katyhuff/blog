@@ -58,8 +58,8 @@ a {
       margin-bottom: 7px; }
 
 .content {
-  max-width: 650px;
-  margin-left: 110px;
+  max-width: 1500px;
+  margin-left: 300px;
   margin-right: 20px;
   margin-bottom: 50px; }
   .content h1 {
@@ -185,7 +185,7 @@ a {
       float: left;
       margin-top: 0px;
       margin-right: 10px;
-      margin-left: -60px;
+      margin-left: 0px;
       border-radius: 4px; }
     .content .meta .copy {
       padding-left: 60px; }
