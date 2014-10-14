@@ -16,8 +16,8 @@ a {
   .sidebar a {
     text-decoration: none; }
   .sidebar img {
-    padding-left: 8px;
-    padding-right: 0;
+    padding-left: 0px;
+    padding-right: 10px;
     border: 0; }
   .sidebar .avatar {
     padding: 0;
