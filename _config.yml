@@ -4,6 +4,8 @@ permalink: /posts/:title
 auto: true
 rdiscount:
   extensions: [smart]
+gems:
+- liquid
 
 name: Katy Huff
 url: http://katyhuff.github.com/blog
@@ -12,4 +14,5 @@ twitter: katyhuff
 github: katyhuff
 gravatar_url: http://www.gravatar.com/avatar/95edf87e1bee6782e38f18d6813cc74e
 disqus_username: katyhuff
+
 
