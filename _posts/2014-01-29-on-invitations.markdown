@@ -3,6 +3,8 @@ layout: post
 title: On Invitations
 comments: true
 category: posts
+tags:
+- feminism
 ---
 
 

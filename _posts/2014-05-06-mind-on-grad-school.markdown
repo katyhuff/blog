@@ -3,6 +3,8 @@ layout: post
 title: Required Reading - This is Your Mind on Grad School
 comments: true
 category: posts
+tags:
+- education
 ---
 
 

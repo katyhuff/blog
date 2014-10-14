@@ -3,6 +3,9 @@ layout: post
 title: Women Only Events
 comments: true
 category: posts
+tags:
+- feminism
+- education
 ---
 
 Though I'd been a participant in female-focused events in the past, I had never 

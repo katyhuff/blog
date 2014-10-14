@@ -3,6 +3,9 @@ layout: post
 title: Book Review - Whistling Vivaldi
 comments: true
 category: posts
+tags:
+- feminism
+- education
 ---
 
 Professor Claude M. Steele writes emails to me sometimes. That is, as an 

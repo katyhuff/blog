@@ -4,7 +4,6 @@ title: New Blog
 comments: true
 category: posts
 tags:
-- jekyll
 - meta
 ---
 

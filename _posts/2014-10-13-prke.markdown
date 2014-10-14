@@ -2,7 +2,9 @@
 layout: post
 title: Explaining the Point Reactor Kinetics Equations
 comments: true
-categories: [posts, research, atws]
+categories: posts
+tags:
+- research
 ---
 
 The point reactor kinetics equations are used in neutronic transient analyses 
