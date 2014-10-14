@@ -5,7 +5,6 @@ comments: true
 category: posts research atws
 tags: 
 - research 
-- atws 
 ---
 
 This is just a research microblogging post. It may be the last. 

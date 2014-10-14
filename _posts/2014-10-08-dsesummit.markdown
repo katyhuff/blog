@@ -4,7 +4,7 @@ title: Data Science Environment Summit
 comments: true
 category: posts
 tags:
-- datascience
+- computation
 ---
 
 This week, I participated in the Moore-Sloan Data Science Environment Summit, a 
